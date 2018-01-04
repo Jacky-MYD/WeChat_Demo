@@ -1,0 +1,5 @@
+<!--index.wxml-->
+<view class="container">
+  Hello world!
+  <text class="page_data" bindtap="viewTap">{{text}}</text>
+</view>

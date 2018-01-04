@@ -1,0 +1,11 @@
+{
+  "pages":[
+    "pages/index/index"
+  ],
+  "window":{
+    "backgroundTextStyle":"light",
+    "navigationBarBackgroundColor": "#BBDEF8",
+    "navigationBarTitleText": "新手入门指南",
+    "navigationBarTextStyle":"white"
+  }
+}

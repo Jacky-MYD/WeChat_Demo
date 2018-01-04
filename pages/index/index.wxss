@@ -1,0 +1,9 @@
+/**index.wxss**/
+.container {
+  font-family: bold;
+  font-size: 2rem;
+  color: red;
+}
+.page_data {
+  color: greenyellow;
+}

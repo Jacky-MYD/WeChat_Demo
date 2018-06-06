@@ -73,7 +73,8 @@
             "navigationBarTitleText": "新手入门指南",
             "navigationBarTextStyle":"white"
           }
-        }```
+        }
+        ```
         ![work flows](assets/images/change_navigationBar.jpg)
 
       **页面构建及优化**  <br />

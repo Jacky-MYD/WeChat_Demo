@@ -1,3 +1,4 @@
+### 小程序开发指南
 ## 准备工作
 - **IDE搭建**
     根据个人的操作系统，下载相应的《微信开发者工具》，[官方下载](https://mp.weixin.qq.com/debug/wxadoc/dev/devtools/download.html?t=20171227)
